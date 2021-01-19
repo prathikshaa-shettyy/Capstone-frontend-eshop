@@ -1,0 +1,27 @@
+.navbar{
+    background-color: #007bff;
+    color: white;
+   
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+ }
+#hire{
+    color:white;
+    text-decoration: none;
+}
+#search{
+    border-radius: 0 0.25rem 0.25rem 0;
+    background-color: white;
+   
+}
+#searchicon{
+    color:#007bff;
+}
+#submit{
+    background-color: white;
+    
+}
